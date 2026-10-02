@@ -1,0 +1,7 @@
+{
+  "name": "AquaTrack - Water Intake Tracker",
+  "description": "Record daily water intake and monitor progress toward your personalized hydration goal with visual tracking, beverage logs, and trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
